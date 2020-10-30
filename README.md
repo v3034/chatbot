@@ -1,6 +1,6 @@
-Team members are : 18PA1A0557 , 18PA1A04F9 , 18PA1A05B2 // We, together done this project sir .
+Team members are : 18PA1A0557 , 18PA1A04F9 , 18PA1A05B2 // We, together done this project .
 
-Objective: This is our frontend which is "Kiddo Amuesment Park
+Objective: This is our chatbot which is "Kiddo Amuesment Park
 
 This is the explanation of our chatbot.............
 
